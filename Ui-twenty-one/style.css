@@ -1,0 +1,54 @@
+body
+{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background: #f8fafc;
+    font-family: serif;
+}
+
+.card
+{
+    width: 320px;
+    padding: 16px;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 6px 20px rgba(2, 6, 23, .06);
+}
+
+.skele
+{
+    height: 12px;
+    border-radius: 8px;
+    background: linear-gradient(90deg, #f1f5f9, #e2e8f0, #f1f5f9);
+    background-size: 200% 100%;
+    animation: shimmer 1.2s linear infinite;
+}
+
+.avater 
+{
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    margin-bottom: 12px;
+    overflow: hidden;
+    background: #e2e8f0;
+}
+
+.title 
+{
+    height: 16px;
+    width: 70%;
+    margin: 8px 0;
+    border-radius: 8px;
+}
+
+.line
+{
+height: 10px;
+width: 100%;
+margin: 6px 0;
+border-radius: 8px;
+}
+
+@keyframes shimmer { 0%{ background-position: 200% 0};100%{ background-position: 200% 0;}}
