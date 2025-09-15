@@ -1,0 +1,17 @@
+.btn
+{
+    padding: 12px 25px;
+    border: none;
+    border-radius: 30px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    background: linear-gradient(45deg, #ff6b6b, #ff6b6b, #845ef7);
+    background-size: 300%;
+    transition: 0.5s;
+}
+
+.btn:hover 
+{
+    background-position: right;
+}

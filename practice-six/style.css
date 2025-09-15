@@ -1,0 +1,12 @@
+.hero
+{
+    text-align: center;
+    margin-top: 15%;
+}
+
+.hero span 
+{
+    background: linear-gradient(45deg, #ff6b6b, #845ef7);
+    -webkit-background-clip: text;
+    color: transparent;
+}

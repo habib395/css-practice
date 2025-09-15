@@ -1,0 +1,34 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f8f9fa;
+}
+
+.login-box
+{
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.login-box input
+{
+   display: block;
+   margin: 10px 0;
+   padding: 10px;
+   width: 200px;
+}
+
+.login-box button
+{
+    background: #845ef7;
+    border: none;
+    color: white;
+    padding: 10px;
+    width: 220px;
+    border-radius: 8px;
+}
