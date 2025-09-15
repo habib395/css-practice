@@ -18,22 +18,22 @@
 10.ui-ten:
 ![alt text](Ui-ten/ten.png)
 11.ui-eleven:
-![alt text](Ui-eleven/eleven.png)
+![alt text](UI-eleven/eleven.png)
 12.ui-twelve:
 ![alt text](Ui-twelve/twelve.png)
 13.ui-thirdteen:
 ![alt text](Ui-thirdteen/thirdteen.png)
-7.ui-fourteen:
+14.ui-fourteen:
 ![alt text](Ui-fourteen/fourteen.png)
-7.ui-fifteen:
+15.ui-fifteen:
 ![alt text](Ui-fifteen/fifteen.png)
-7.ui-sixteen:
+16.ui-sixteen:
 ![alt text](Ui-sixteen/sixteen.png)
-7.ui-seventeen:
+17.ui-seventeen:
 ![alt text](Ui-seventeen/seventeen.png)
-7.seven-eighteen:
+18.seven-eighteen:
 ![alt text](Ui-eighteen/eighteen.png)
-7.seven-nineteen:
-![alt text](Ui-nineteen/nineteen.png)
-7.seven-twenty:
-![alt text](Ui-twenty/twenty.png)
+19.seven-nineteen:
+![alt text](UI-nineteen/nineteen.png)
+20.seven-twenty:
+![alt text](Ui-tewnty/twenty.png)
