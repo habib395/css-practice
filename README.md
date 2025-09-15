@@ -43,5 +43,7 @@
 ![alt text](Ui-twenty-two/twenty-two.png)
 23.seven-twenty-two: 
 ![alt text](Ui-twenty-three/twenty-three.png)
+24.seven-twenty-four: 
+![alt text](Ui-twenty-four/twenty-four.png)
 
 
