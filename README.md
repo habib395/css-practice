@@ -9,3 +9,5 @@
 ![alt text](Ui-five/ui-five.png)
 6.six-ui: glassmorphism effect
 ![alt text](Ui-six/ui-six.png)
+7.seven-ui:
+![alt text](Ui-seven/seven.png)
